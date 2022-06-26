@@ -6,4 +6,10 @@
   text-decoration: none;
 }
 
-//Navigation Bar Styling
+/* Navigation Bar Styling */
+
+.navigationbar {
+  position: fixed;
+  width: 100%;
+  background: crimson;
+}
